@@ -1,0 +1,5365 @@
+[
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "HARROW & WEALDSTONE",
+    "destination": "KENTON",
+    "time": 2.23
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "KENTON",
+    "destination": "SOUTH KENTON",
+    "time": 1.88
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "SOUTH KENTON",
+    "destination": "NORTH WEMBLEY",
+    "time": 1.5
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "NORTH WEMBLEY",
+    "destination": "WEMBLEY CENTRAL",
+    "time": 1.92
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "WEMBLEY CENTRAL",
+    "destination": "STONEBRIDGE PARK",
+    "time": 2.23
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "STONEBRIDGE PARK",
+    "destination": "HARLESDEN",
+    "time": 2.13
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "HARLESDEN",
+    "destination": "WILLESDEN JUNCTION",
+    "time": 1.65
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "WILLESDEN JUNCTION",
+    "destination": "KENSAL GREEN",
+    "time": 2.47
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "KENSAL GREEN",
+    "destination": "QUEENS PARK",
+    "time": 2.65
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "QUEENS PARK",
+    "destination": "KILBURN PARK",
+    "time": 1.42
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "KILBURN PARK",
+    "destination": "MAIDA VALE",
+    "time": 1.48
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "MAIDA VALE",
+    "destination": "WARWICK AVENUE",
+    "time": 1.5
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "WARWICK AVENUE",
+    "destination": "PADDINGTON",
+    "time": 1.58
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "PADDINGTON",
+    "destination": "EDGWARE ROAD",
+    "time": 1.57
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "EDGWARE ROAD",
+    "destination": "MARYLEBONE",
+    "time": 1.12
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "MARYLEBONE",
+    "destination": "BAKER STREET",
+    "time": 1.17
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "BAKER STREET",
+    "destination": "REGENTS PARK",
+    "time": 1.68
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "REGENTS PARK",
+    "destination": "OXFORD CIRCUS",
+    "time": 1.85
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "PICCADILLY CIRCUS",
+    "time": 1.95
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "PICCADILLY CIRCUS",
+    "destination": "CHARING CROSS",
+    "time": 1.35
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "CHARING CROSS",
+    "destination": "EMBANKMENT",
+    "time": 0.95
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "EMBANKMENT",
+    "destination": "WATERLOO",
+    "time": 1.43
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "WATERLOO",
+    "destination": "LAMBETH NORTH",
+    "time": 1.45
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Southbound",
+    "departure": "LAMBETH NORTH",
+    "destination": "ELEPHANT & CASTLE",
+    "time": 2.57
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "ELEPHANT & CASTLE",
+    "destination": "LAMBETH NORTH",
+    "time": 2.13
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "LAMBETH NORTH",
+    "destination": "WATERLOO",
+    "time": 1.45
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "WATERLOO",
+    "destination": "EMBANKMENT",
+    "time": 1.22
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "EMBANKMENT",
+    "destination": "CHARING CROSS",
+    "time": 0.97
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "CHARING CROSS",
+    "destination": "PICCADILLY CIRCUS",
+    "time": 1.6
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "PICCADILLY CIRCUS",
+    "destination": "OXFORD CIRCUS",
+    "time": 2.02
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "REGENTS PARK",
+    "time": 1.72
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "REGENTS PARK",
+    "destination": "BAKER STREET",
+    "time": 1.65
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "BAKER STREET",
+    "destination": "MARYLEBONE",
+    "time": 1.08
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "MARYLEBONE",
+    "destination": "EDGWARE ROAD",
+    "time": 1.08
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "EDGWARE ROAD",
+    "destination": "PADDINGTON",
+    "time": 1.62
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "PADDINGTON",
+    "destination": "WARWICK AVENUE",
+    "time": 1.63
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "WARWICK AVENUE",
+    "destination": "MAIDA VALE",
+    "time": 1.5
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "MAIDA VALE",
+    "destination": "KILBURN PARK",
+    "time": 1.48
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "KILBURN PARK",
+    "destination": "QUEENS PARK",
+    "time": 2.1
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "QUEENS PARK",
+    "destination": "KENSAL GREEN",
+    "time": 2.83
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "KENSAL GREEN",
+    "destination": "WILLESDEN JUNCTION",
+    "time": 2.53
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "WILLESDEN JUNCTION",
+    "destination": "HARLESDEN",
+    "time": 1.63
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "HARLESDEN",
+    "destination": "STONEBRIDGE PARK",
+    "time": 2.02
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "STONEBRIDGE PARK",
+    "destination": "WEMBLEY CENTRAL",
+    "time": 2.42
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "WEMBLEY CENTRAL",
+    "destination": "NORTH WEMBLEY",
+    "time": 1.95
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "NORTH WEMBLEY",
+    "destination": "SOUTH KENTON",
+    "time": 1.58
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "SOUTH KENTON",
+    "destination": "KENTON",
+    "time": 2
+  },
+  {
+    "line": "Bakerloo ",
+    "direction": "Northbound",
+    "departure": "KENTON",
+    "destination": "HARROW & WEALDSTONE",
+    "time": 2.38
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "WEST RUISLIP",
+    "destination": "RUISLIP GARDENS",
+    "time": 2.28
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "RUISLIP GARDENS",
+    "destination": "SOUTH RUISLIP",
+    "time": 1.3
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "SOUTH RUISLIP",
+    "destination": "NORTHOLT",
+    "time": 2.23
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "NORTHOLT",
+    "destination": "GREENFORD",
+    "time": 1.93
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "GREENFORD",
+    "destination": "PERIVALE",
+    "time": 1.85
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "PERIVALE",
+    "destination": "HANGER LANE",
+    "time": 2.1
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "HANGER LANE",
+    "destination": "NORTH ACTON",
+    "time": 2.85
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "EALING BROADWAY",
+    "destination": "WEST ACTON",
+    "time": 2.28
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "WEST ACTON",
+    "destination": "NORTH ACTON",
+    "time": 2.3
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "NORTH ACTON",
+    "destination": "EAST ACTON",
+    "time": 1.5
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "EAST ACTON",
+    "destination": "WHITE CITY",
+    "time": 2.57
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "WHITE CITY",
+    "destination": "SHEPHERDS BUSH",
+    "time": 2.68
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "SHEPHERDS BUSH",
+    "destination": "HOLLAND PARK",
+    "time": 1.37
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "HOLLAND PARK",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.08
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "NOTTING HILL GATE",
+    "destination": "QUEENSWAY",
+    "time": 1.17
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "QUEENSWAY",
+    "destination": "LANCASTER GATE",
+    "time": 1.35
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LANCASTER GATE",
+    "destination": "MARBLE ARCH",
+    "time": 1.92
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "MARBLE ARCH",
+    "destination": "BOND STREET",
+    "time": 1
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "BOND STREET",
+    "destination": "OXFORD CIRCUS",
+    "time": 1.1
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "TOTTENHAM COURT ROAD",
+    "time": 0.98
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "TOTTENHAM COURT ROAD",
+    "destination": "HOLBORN",
+    "time": 1.63
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "HOLBORN",
+    "destination": "CHANCERY LANE",
+    "time": 0.87
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "CHANCERY LANE",
+    "destination": "ST PAULS",
+    "time": 1.52
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "ST PAULS",
+    "destination": "BANK",
+    "time": 1.62
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "BANK",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.62
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "BETHNAL GREEN",
+    "time": 2.6
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "BETHNAL GREEN",
+    "destination": "MILE END",
+    "time": 1.98
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "MILE END",
+    "destination": "STRATFORD",
+    "time": 3.18
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "STRATFORD",
+    "destination": "LEYTON",
+    "time": 2.4
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LEYTON",
+    "destination": "LEYTONSTONE",
+    "time": 2.02
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LEYTONSTONE",
+    "destination": "WANSTEAD",
+    "time": 2.15
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "WANSTEAD",
+    "destination": "REDBRIDGE",
+    "time": 1.62
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "REDBRIDGE",
+    "destination": "GANTS HILL",
+    "time": 1.65
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "GANTS HILL",
+    "destination": "NEWBURY PARK",
+    "time": 2.68
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "NEWBURY PARK",
+    "destination": "BARKINGSIDE",
+    "time": 1.55
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "BARKINGSIDE",
+    "destination": "FAIRLOP",
+    "time": 1.57
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "FAIRLOP",
+    "destination": "HAINAULT",
+    "time": 2.93
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LEYTONSTONE",
+    "destination": "SNARESBROOK",
+    "time": 1.8
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "SNARESBROOK",
+    "destination": "SOUTH WOODFORD",
+    "time": 1.62
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "SOUTH WOODFORD",
+    "destination": "WOODFORD",
+    "time": 1.9
+  },
+  {
+    "line": "Central ",
+    "direction": "Inner",
+    "departure": "RODING VALLEY",
+    "destination": "WOODFORD",
+    "time": 2.03
+  },
+  {
+    "line": "Central ",
+    "direction": "Inner",
+    "departure": "CHIGWELL",
+    "destination": "RODING VALLEY",
+    "time": 2.45
+  },
+  {
+    "line": "Central ",
+    "direction": "Inner",
+    "departure": "GRANGE HILL",
+    "destination": "CHIGWELL",
+    "time": 1.63
+  },
+  {
+    "line": "Central ",
+    "direction": "Inner",
+    "departure": "HAINAULT",
+    "destination": "GRANGE HILL",
+    "time": 1.73
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "WOODFORD",
+    "destination": "BUCKHURST HILL",
+    "time": 2.28
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "BUCKHURST HILL",
+    "destination": "LOUGHTON",
+    "time": 2.35
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "LOUGHTON",
+    "destination": "DEBDEN",
+    "time": 2.13
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "DEBDEN",
+    "destination": "THEYDON BOIS",
+    "time": 3
+  },
+  {
+    "line": "Central ",
+    "direction": "Eastbound",
+    "departure": "THEYDON BOIS",
+    "destination": "EPPING",
+    "time": 2.6
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "EPPING",
+    "destination": "THEYDON BOIS",
+    "time": 2.37
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "THEYDON BOIS",
+    "destination": "DEBDEN",
+    "time": 2.88
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "DEBDEN",
+    "destination": "LOUGHTON",
+    "time": 2.67
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "LOUGHTON",
+    "destination": "BUCKHURST HILL",
+    "time": 2.07
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "BUCKHURST HILL",
+    "destination": "WOODFORD",
+    "time": 2.32
+  },
+  {
+    "line": "Central ",
+    "direction": "Outer",
+    "departure": "GRANGE HILL",
+    "destination": "HAINAULT",
+    "time": 1.7
+  },
+  {
+    "line": "Central ",
+    "direction": "Outer",
+    "departure": "CHIGWELL",
+    "destination": "GRANGE HILL",
+    "time": 1.73
+  },
+  {
+    "line": "Central ",
+    "direction": "Outer",
+    "departure": "RODING VALLEY",
+    "destination": "CHIGWELL",
+    "time": 2.13
+  },
+  {
+    "line": "Central ",
+    "direction": "Outer",
+    "departure": "WOODFORD",
+    "destination": "RODING VALLEY",
+    "time": 2.18
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "WOODFORD",
+    "destination": "SOUTH WOODFORD",
+    "time": 1.95
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "SOUTH WOODFORD",
+    "destination": "SNARESBROOK",
+    "time": 1.6
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "SNARESBROOK",
+    "destination": "LEYTONSTONE",
+    "time": 2.05
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "HAINAULT",
+    "destination": "FAIRLOP",
+    "time": 1.82
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "FAIRLOP",
+    "destination": "BARKINGSIDE",
+    "time": 1.57
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "BARKINGSIDE",
+    "destination": "NEWBURY PARK",
+    "time": 1.58
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "NEWBURY PARK",
+    "destination": "GANTS HILL",
+    "time": 2.73
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "GANTS HILL",
+    "destination": "REDBRIDGE",
+    "time": 1.7
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "REDBRIDGE",
+    "destination": "WANSTEAD",
+    "time": 1.58
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "WANSTEAD",
+    "destination": "LEYTONSTONE",
+    "time": 2.17
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "LEYTONSTONE",
+    "destination": "LEYTON",
+    "time": 2.02
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "LEYTON",
+    "destination": "STRATFORD",
+    "time": 2.43
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "STRATFORD",
+    "destination": "MILE END",
+    "time": 3.03
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "MILE END",
+    "destination": "BETHNAL GREEN",
+    "time": 1.97
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "BETHNAL GREEN",
+    "destination": "LIVERPOOL STREET",
+    "time": 2.77
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "BANK",
+    "time": 1.65
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "BANK",
+    "destination": "ST PAULS",
+    "time": 1.63
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "ST PAULS",
+    "destination": "CHANCERY LANE",
+    "time": 1.52
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "CHANCERY LANE",
+    "destination": "HOLBORN",
+    "time": 0.85
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "HOLBORN",
+    "destination": "TOTTENHAM COURT ROAD",
+    "time": 1.38
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "TOTTENHAM COURT ROAD",
+    "destination": "OXFORD CIRCUS",
+    "time": 1.02
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "BOND STREET",
+    "time": 1.03
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "BOND STREET",
+    "destination": "MARBLE ARCH",
+    "time": 1.02
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "MARBLE ARCH",
+    "destination": "LANCASTER GATE",
+    "time": 1.62
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "LANCASTER GATE",
+    "destination": "QUEENSWAY",
+    "time": 1.65
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "QUEENSWAY",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.18
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "NOTTING HILL GATE",
+    "destination": "HOLLAND PARK",
+    "time": 1.18
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "HOLLAND PARK",
+    "destination": "SHEPHERDS BUSH",
+    "time": 1.52
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "SHEPHERDS BUSH",
+    "destination": "WHITE CITY",
+    "time": 2.77
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "WHITE CITY",
+    "destination": "EAST ACTON",
+    "time": 2.67
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "EAST ACTON",
+    "destination": "NORTH ACTON",
+    "time": 1.57
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "NORTH ACTON",
+    "destination": "WEST ACTON",
+    "time": 2.52
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "WEST ACTON",
+    "destination": "EALING BROADWAY",
+    "time": 3.07
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "NORTH ACTON",
+    "destination": "HANGER LANE",
+    "time": 2.87
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "HANGER LANE",
+    "destination": "PERIVALE",
+    "time": 2.07
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "PERIVALE",
+    "destination": "GREENFORD",
+    "time": 2
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "GREENFORD",
+    "destination": "NORTHOLT",
+    "time": 2.15
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "NORTHOLT",
+    "destination": "SOUTH RUISLIP",
+    "time": 2.25
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "SOUTH RUISLIP",
+    "destination": "RUISLIP GARDENS",
+    "time": 1.37
+  },
+  {
+    "line": "Central ",
+    "direction": "Westbound",
+    "departure": "RUISLIP GARDENS",
+    "destination": "WEST RUISLIP",
+    "time": 2.68
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "WALTHAMSTOW",
+    "destination": "BLACKHORSE ROAD",
+    "time": 2.12
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "BLACKHORSE ROAD",
+    "destination": "TOTTENHAM HALE",
+    "time": 1.9
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "TOTTENHAM HALE",
+    "destination": "SEVEN SISTERS",
+    "time": 2
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "SEVEN SISTERS",
+    "destination": "FINSBURY PARK",
+    "time": 3.77
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "FINSBURY PARK",
+    "destination": "HIGHBURY",
+    "time": 2.9
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "HIGHBURY",
+    "destination": "KINGS CROSS",
+    "time": 2.77
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "KINGS CROSS",
+    "destination": "EUSTON",
+    "time": 1.32
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "EUSTON",
+    "destination": "WARREN STREET",
+    "time": 1.3
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "WARREN STREET",
+    "destination": "OXFORD CIRCUS",
+    "time": 1.72
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "GREEN PARK",
+    "time": 1.78
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "GREEN PARK",
+    "destination": "VICTORIA",
+    "time": 1.88
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "VICTORIA",
+    "destination": "PIMLICO",
+    "time": 1.83
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "PIMLICO",
+    "destination": "VAUXHALL",
+    "time": 1.4
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "VAUXHALL",
+    "destination": "STOCKWELL",
+    "time": 2.3
+  },
+  {
+    "line": "Victoria",
+    "direction": "Southbound",
+    "departure": "STOCKWELL",
+    "destination": "BRIXTON",
+    "time": 2.03
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "BRIXTON",
+    "destination": "STOCKWELL",
+    "time": 2.18
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "STOCKWELL",
+    "destination": "VAUXHALL",
+    "time": 2.23
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "VAUXHALL",
+    "destination": "PIMLICO",
+    "time": 1.37
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "PIMLICO",
+    "destination": "VICTORIA",
+    "time": 2.18
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "VICTORIA",
+    "destination": "GREEN PARK",
+    "time": 1.95
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "GREEN PARK",
+    "destination": "OXFORD CIRCUS",
+    "time": 1.97
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "OXFORD CIRCUS",
+    "destination": "WARREN STREET",
+    "time": 1.53
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "WARREN STREET",
+    "destination": "EUSTON",
+    "time": 1.32
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "EUSTON",
+    "destination": "KINGS CROSS",
+    "time": 1.35
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "KINGS CROSS",
+    "destination": "HIGHBURY",
+    "time": 2.87
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "HIGHBURY",
+    "destination": "FINSBURY PARK",
+    "time": 2.4
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "FINSBURY PARK",
+    "destination": "SEVEN SISTERS",
+    "time": 4.25
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "SEVEN SISTERS",
+    "destination": "TOTTENHAM HALE",
+    "time": 1.6
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "TOTTENHAM HALE",
+    "destination": "BLACKHORSE ROAD",
+    "time": 1.97
+  },
+  {
+    "line": "Victoria",
+    "direction": "Northbound",
+    "departure": "BLACKHORSE ROAD",
+    "destination": "WALTHAMSTOW",
+    "time": 2.12
+  },
+  {
+    "line": "Waterloo & City",
+    "direction": "Eastbound",
+    "departure": "WATERLOO",
+    "destination": "BANK",
+    "time": 4.87
+  },
+  {
+    "line": "Waterloo & City",
+    "direction": "Westbound",
+    "departure": "BANK",
+    "destination": "WATERLOO",
+    "time": 4.2
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "STANMORE",
+    "destination": "CANONS PARK",
+    "time": 1.95
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "CANONS PARK",
+    "destination": "QUEENSBURY",
+    "time": 1.93
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "QUEENSBURY",
+    "destination": "KINGSBURY",
+    "time": 1.72
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "KINGSBURY",
+    "destination": "WEMBLEY PARK",
+    "time": 3.47
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WEMBLEY PARK",
+    "destination": "NEASDEN",
+    "time": 2.6
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "NEASDEN",
+    "destination": "DOLLIS HILL",
+    "time": 1.43
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "DOLLIS HILL",
+    "destination": "WILLESDEN GREEN",
+    "time": 1.8
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WILLESDEN GREEN",
+    "destination": "KILBURN",
+    "time": 1.68
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "KILBURN",
+    "destination": "WEST HAMPSTEAD",
+    "time": 1.63
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WEST HAMPSTEAD",
+    "destination": "FINCHLEY ROAD",
+    "time": 1.25
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "FINCHLEY ROAD",
+    "destination": "SWISS COTTAGE",
+    "time": 1.18
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "SWISS COTTAGE",
+    "destination": "ST JOHNS WOOD",
+    "time": 1.52
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "ST JOHNS WOOD",
+    "destination": "BAKER STREET",
+    "time": 2.77
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "BAKER STREET",
+    "destination": "BOND STREET",
+    "time": 2.1
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "BOND STREET",
+    "destination": "GREEN PARK",
+    "time": 1.78
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "GREEN PARK",
+    "destination": "WESTMINSTER",
+    "time": 1.87
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WESTMINSTER",
+    "destination": "WATERLOO",
+    "time": 1.38
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WATERLOO",
+    "destination": "SOUTHWARK",
+    "time": 1.02
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "SOUTHWARK",
+    "destination": "LONDON BRIDGE",
+    "time": 1.65
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "LONDON BRIDGE",
+    "destination": "BERMONDSEY",
+    "time": 2.25
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "BERMONDSEY",
+    "destination": "CANADA WATER",
+    "time": 1.48
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "CANADA WATER",
+    "destination": "CANARY WHARF",
+    "time": 2.5
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "CANARY WHARF",
+    "destination": "NORTH GREENWICH",
+    "time": 2.23
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "NORTH GREENWICH",
+    "destination": "CANNING TOWN",
+    "time": 2.15
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "CANNING TOWN",
+    "destination": "WEST HAM",
+    "time": 2.15
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Eastbound",
+    "departure": "WEST HAM",
+    "destination": "STRATFORD",
+    "time": 3.15
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "STRATFORD",
+    "destination": "WEST HAM",
+    "time": 2.42
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WEST HAM",
+    "destination": "CANNING TOWN",
+    "time": 2.13
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "CANNING TOWN",
+    "destination": "NORTH GREENWICH",
+    "time": 2.17
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "NORTH GREENWICH",
+    "destination": "CANARY WHARF",
+    "time": 1.98
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "CANARY WHARF",
+    "destination": "CANADA WATER",
+    "time": 2.63
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "CANADA WATER",
+    "destination": "BERMONDSEY",
+    "time": 1.52
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "BERMONDSEY",
+    "destination": "LONDON BRIDGE",
+    "time": 2.17
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "LONDON BRIDGE",
+    "destination": "SOUTHWARK",
+    "time": 1.77
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "SOUTHWARK",
+    "destination": "WATERLOO",
+    "time": 0.97
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WATERLOO",
+    "destination": "WESTMINSTER",
+    "time": 1.43
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WESTMINSTER",
+    "destination": "GREEN PARK",
+    "time": 1.82
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "GREEN PARK",
+    "destination": "BOND STREET",
+    "time": 1.82
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "BOND STREET",
+    "destination": "BAKER STREET",
+    "time": 2.28
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "BAKER STREET",
+    "destination": "ST JOHNS WOOD",
+    "time": 2.85
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "ST JOHNS WOOD",
+    "destination": "SWISS COTTAGE",
+    "time": 1.52
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "SWISS COTTAGE",
+    "destination": "FINCHLEY ROAD",
+    "time": 1.18
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "FINCHLEY ROAD",
+    "destination": "WEST HAMPSTEAD",
+    "time": 1.2
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WEST HAMPSTEAD",
+    "destination": "KILBURN",
+    "time": 1.55
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "KILBURN",
+    "destination": "WILLESDEN GREEN",
+    "time": 2.07
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WILLESDEN GREEN",
+    "destination": "DOLLIS HILL",
+    "time": 1.67
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "DOLLIS HILL",
+    "destination": "NEASDEN",
+    "time": 1.38
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "NEASDEN",
+    "destination": "WEMBLEY PARK",
+    "time": 2.65
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "WEMBLEY PARK",
+    "destination": "KINGSBURY",
+    "time": 3.47
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "KINGSBURY",
+    "destination": "QUEENSBURY",
+    "time": 1.85
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "QUEENSBURY",
+    "destination": "CANONS PARK",
+    "time": 2.23
+  },
+  {
+    "line": "Jubilee ",
+    "direction": "Westbound",
+    "departure": "CANONS PARK",
+    "destination": "STANMORE",
+    "time": 2.87
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "EDGWARE",
+    "destination": "BURNT OAK",
+    "time": 2.43
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BURNT OAK",
+    "destination": "COLINDALE",
+    "time": 1.98
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "COLINDALE",
+    "destination": "HENDON CENTRAL",
+    "time": 2.83
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "HENDON CENTRAL",
+    "destination": "BRENT CROSS",
+    "time": 1.73
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BRENT CROSS",
+    "destination": "GOLDERS GREEN",
+    "time": 2.57
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "GOLDERS GREEN",
+    "destination": "HAMPSTEAD",
+    "time": 3.42
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "HAMPSTEAD",
+    "destination": "BELSIZE PARK",
+    "time": 1.82
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BELSIZE PARK",
+    "destination": "CHALK FARM",
+    "time": 1.77
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CHALK FARM",
+    "destination": "CAMDEN TOWN",
+    "time": 1.53
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "HIGH BARNET",
+    "destination": "TOTTERIDGE & WHETSTONE",
+    "time": 3.67
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "TOTTERIDGE & WHETSTONE",
+    "destination": "WOODSIDE PARK",
+    "time": 2.23
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "WOODSIDE PARK",
+    "destination": "WEST FINCHLEY",
+    "time": 1.7
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "WEST FINCHLEY",
+    "destination": "FINCHLEY CENTRAL",
+    "time": 2.08
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "MILL HILL EAST",
+    "destination": "FINCHLEY CENTRAL",
+    "time": 2.75
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "FINCHLEY CENTRAL",
+    "destination": "EAST FINCHLEY",
+    "time": 3.37
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "EAST FINCHLEY",
+    "destination": "HIGHGATE",
+    "time": 3
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "HIGHGATE",
+    "destination": "ARCHWAY",
+    "time": 2.8
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "ARCHWAY",
+    "destination": "TUFNELL PARK",
+    "time": 1.6
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "TUFNELL PARK",
+    "destination": "KENTISH TOWN",
+    "time": 1.42
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "KENTISH TOWN",
+    "destination": "CAMDEN TOWN",
+    "time": 1.93
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CAMDEN TOWN",
+    "destination": "MORNINGTON CRESCENT",
+    "time": 1.63
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "MORNINGTON CRESCENT",
+    "destination": "EUSTON (CX)",
+    "time": 1.52
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "EUSTON (CX)",
+    "destination": "WARREN STREET",
+    "time": 1.18
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "WARREN STREET",
+    "destination": "GOODGE STREET",
+    "time": 1.07
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "GOODGE STREET",
+    "destination": "TOTTENHAM COURT ROAD",
+    "time": 1.32
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "TOTTENHAM COURT ROAD",
+    "destination": "LEICESTER SQUARE",
+    "time": 0.98
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "LEICESTER SQUARE",
+    "destination": "CHARING CROSS",
+    "time": 1.2
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CHARING CROSS",
+    "destination": "EMBANKMENT",
+    "time": 0.8
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "EMBANKMENT",
+    "destination": "WATERLOO",
+    "time": 1.37
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "WATERLOO",
+    "destination": "KENNINGTON (CX)",
+    "time": 2.97
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CAMDEN TOWN",
+    "destination": "EUSTON (CITY)",
+    "time": 2.95
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "EUSTON (CITY)",
+    "destination": "KINGS CROSS",
+    "time": 1.53
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "KINGS CROSS",
+    "destination": "ANGEL",
+    "time": 2.18
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "ANGEL",
+    "destination": "OLD STREET",
+    "time": 2.87
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "OLD STREET",
+    "destination": "MOORGATE",
+    "time": 1.37
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "MOORGATE",
+    "destination": "BANK",
+    "time": 1.9
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BANK",
+    "destination": "LONDON BRIDGE",
+    "time": 1.55
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "LONDON BRIDGE",
+    "destination": "BOROUGH",
+    "time": 1.45
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BOROUGH",
+    "destination": "ELEPHANT & CASTLE",
+    "time": 1.72
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "ELEPHANT & CASTLE",
+    "destination": "KENNINGTON (CITY)",
+    "time": 2.03
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "KENNINGTON",
+    "destination": "OVAL",
+    "time": 1.58
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "OVAL",
+    "destination": "STOCKWELL",
+    "time": 2.2
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "STOCKWELL",
+    "destination": "CLAPHAM NORTH",
+    "time": 1.55
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CLAPHAM NORTH",
+    "destination": "CLAPHAM COMMON",
+    "time": 1.4
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CLAPHAM COMMON",
+    "destination": "CLAPHAM SOUTH",
+    "time": 2
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "CLAPHAM SOUTH",
+    "destination": "BALHAM",
+    "time": 1.88
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "BALHAM",
+    "destination": "TOOTING BEC",
+    "time": 1.67
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "TOOTING BEC",
+    "destination": "TOOTING BROADWAY",
+    "time": 1.77
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "TOOTING BROADWAY",
+    "destination": "COLLIERS WOOD",
+    "time": 1.98
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "COLLIERS WOOD",
+    "destination": "SOUTH WIMBLEDON",
+    "time": 1.88
+  },
+  {
+    "line": "Northern ",
+    "direction": "Southbound",
+    "departure": "SOUTH WIMBLEDON",
+    "destination": "MORDEN",
+    "time": 2.95
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "MORDEN",
+    "destination": "SOUTH WIMBLEDON",
+    "time": 2.35
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "SOUTH WIMBLEDON",
+    "destination": "COLLIERS WOOD",
+    "time": 1.85
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "COLLIERS WOOD",
+    "destination": "TOOTING BROADWAY",
+    "time": 1.97
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "TOOTING BROADWAY",
+    "destination": "TOOTING BEC",
+    "time": 1.88
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "TOOTING BEC",
+    "destination": "BALHAM",
+    "time": 1.65
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BALHAM",
+    "destination": "CLAPHAM SOUTH",
+    "time": 1.8
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CLAPHAM SOUTH",
+    "destination": "CLAPHAM COMMON",
+    "time": 2.2
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CLAPHAM COMMON",
+    "destination": "CLAPHAM NORTH",
+    "time": 1.32
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CLAPHAM NORTH",
+    "destination": "STOCKWELL",
+    "time": 1.72
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "STOCKWELL",
+    "destination": "OVAL",
+    "time": 2.03
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "OVAL",
+    "destination": "KENNINGTON (CITY)",
+    "time": 1.7
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "KENNINGTON (CITY)",
+    "destination": "ELEPHANT & CASTLE",
+    "time": 1.8
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "ELEPHANT & CASTLE",
+    "destination": "BOROUGH",
+    "time": 1.75
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BOROUGH",
+    "destination": "LONDON BRIDGE",
+    "time": 1.4
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "LONDON BRIDGE",
+    "destination": "BANK",
+    "time": 1.53
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BANK",
+    "destination": "MOORGATE",
+    "time": 1.77
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "MOORGATE",
+    "destination": "OLD STREET",
+    "time": 1.45
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "OLD STREET",
+    "destination": "ANGEL",
+    "time": 2.43
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "ANGEL",
+    "destination": "KINGS CROSS",
+    "time": 2.15
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "KINGS CROSS",
+    "destination": "EUSTON (CITY)",
+    "time": 1.33
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "EUSTON (CITY)",
+    "destination": "CAMDEN TOWN",
+    "time": 3.88
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "KENNINGTON (CX)",
+    "destination": "WATERLOO",
+    "time": 2.77
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "WATERLOO",
+    "destination": "EMBANKMENT",
+    "time": 1.4
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "EMBANKMENT",
+    "destination": "CHARING CROSS",
+    "time": 0.87
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CHARING CROSS",
+    "destination": "LEICESTER SQUARE",
+    "time": 1.17
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "LEICESTER SQUARE",
+    "destination": "TOTTENHAM COURT ROAD",
+    "time": 1.03
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "TOTTENHAM COURT ROAD",
+    "destination": "GOODGE STREET",
+    "time": 1.28
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "GOODGE STREET",
+    "destination": "WARREN STREET",
+    "time": 1.07
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "WARREN STREET",
+    "destination": "EUSTON (CX)",
+    "time": 1.18
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "EUSTON (CX)",
+    "destination": "MORNINGTON CRESCENT",
+    "time": 1.53
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "MORNINGTON CRESCENT",
+    "destination": "CAMDEN TOWN",
+    "time": 1.8
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CAMDEN TOWN",
+    "destination": "KENTISH TOWN",
+    "time": 1.95
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "KENTISH TOWN",
+    "destination": "TUFNELL PARK",
+    "time": 1.58
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "TUFNELL PARK",
+    "destination": "ARCHWAY",
+    "time": 1.68
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "ARCHWAY",
+    "destination": "HIGHGATE",
+    "time": 2.75
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "HIGHGATE",
+    "destination": "EAST FINCHLEY",
+    "time": 2.62
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "EAST FINCHLEY",
+    "destination": "FINCHLEY CENTRAL",
+    "time": 3.1
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "FINCHLEY CENTRAL",
+    "destination": "MILL HILL EAST",
+    "time": 2.98
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "FINCHLEY CENTRAL (HB)",
+    "destination": "WEST FINCHLEY",
+    "time": 2.1
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "WEST FINCHLEY",
+    "destination": "WOODSIDE PARK",
+    "time": 1.55
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "WOODSIDE PARK",
+    "destination": "TOTTERIDGE & WHETSTONE",
+    "time": 2.23
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "TOTTERIDGE & WHETSTONE",
+    "destination": "HIGH BARNET",
+    "time": 4.62
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CAMDEN TOWN",
+    "destination": "CHALK FARM",
+    "time": 1.55
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "CHALK FARM",
+    "destination": "BELSIZE PARK",
+    "time": 1.9
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BELSIZE PARK",
+    "destination": "HAMPSTEAD",
+    "time": 2.02
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "HAMPSTEAD",
+    "destination": "GOLDERS GREEN",
+    "time": 3.95
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "GOLDERS GREEN",
+    "destination": "BRENT CROSS",
+    "time": 2.22
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BRENT CROSS",
+    "destination": "HENDON CENTRAL",
+    "time": 1.83
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "HENDON CENTRAL",
+    "destination": "COLINDALE",
+    "time": 2.67
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "COLINDALE",
+    "destination": "BURNT OAK",
+    "time": 2.07
+  },
+  {
+    "line": "Northern ",
+    "direction": "Northbound",
+    "departure": "BURNT OAK",
+    "destination": "EDGWARE",
+    "time": 3.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "UXBRIDGE",
+    "destination": "HILLINGDON",
+    "time": 3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HILLINGDON",
+    "destination": "ICKENHAM",
+    "time": 1.6
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "ICKENHAM",
+    "destination": "RUISLIP",
+    "time": 2.3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "RUISLIP",
+    "destination": "RUISLIP MANOR",
+    "time": 1.3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "RUISLIP MANOR",
+    "destination": "EASTCOTE",
+    "time": 1.67
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "EASTCOTE",
+    "destination": "RAYNERS LANE",
+    "time": 2.23
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "RAYNERS LANE",
+    "destination": "SOUTH HARROW",
+    "time": 2.58
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SOUTH HARROW",
+    "destination": "SUDBURY HILL",
+    "time": 1.85
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SUDBURY HILL",
+    "destination": "SUDBURY TOWN",
+    "time": 2.03
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SUDBURY TOWN",
+    "destination": "ALPERTON",
+    "time": 1.95
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "ALPERTON",
+    "destination": "PARK ROYAL",
+    "time": 2.2
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "PARK ROYAL",
+    "destination": "NORTH EALING",
+    "time": 1.52
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "NORTH EALING",
+    "destination": "EALING COMMON",
+    "time": 1.65
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "EALING COMMON",
+    "destination": "ACTON TOWN",
+    "time": 1.83
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HEATHROW 5",
+    "destination": "HEATHROW 123",
+    "time": 4
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HEATHROW 123",
+    "destination": "HATTON CROSS",
+    "time": 3.5
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HATTON CROSS",
+    "destination": "HOUNSLOW WEST",
+    "time": 3.25
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HOUNSLOW WEST",
+    "destination": "HOUNSLOW CENTRAL",
+    "time": 1.98
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HOUNSLOW CENTRAL",
+    "destination": "HOUNSLOW EAST",
+    "time": 1.3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HOUNSLOW EAST",
+    "destination": "OSTERLEY",
+    "time": 1.53
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "OSTERLEY",
+    "destination": "BOSTON MANOR",
+    "time": 2.85
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "BOSTON MANOR",
+    "destination": "NORTHFIELDS",
+    "time": 1.98
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "NORTHFIELDS",
+    "destination": "SOUTH EALING",
+    "time": 0.98
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SOUTH EALING",
+    "destination": "ACTON TOWN",
+    "time": 2.93
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "ACTON TOWN",
+    "destination": "HAMMERSMITH",
+    "time": 5.65
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HAMMERSMITH",
+    "destination": "BARONS COURT",
+    "time": 1.38
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "BARONS COURT",
+    "destination": "EARLS COURT",
+    "time": 2.55
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "EARLS COURT",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "SOUTH KENSINGTON",
+    "time": 1.28
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "KNIGHTSBRIDGE",
+    "time": 2.48
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "KNIGHTSBRIDGE",
+    "destination": "HYDE PARK CORNER",
+    "time": 1.1
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HYDE PARK CORNER",
+    "destination": "GREEN PARK",
+    "time": 1.73
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "GREEN PARK",
+    "destination": "PICCADILLY CIRCUS",
+    "time": 1.1
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "PICCADILLY CIRCUS",
+    "destination": "LEICESTER SQUARE",
+    "time": 1.17
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "LEICESTER SQUARE",
+    "destination": "COVENT GARDEN",
+    "time": 0.77
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "COVENT GARDEN",
+    "destination": "HOLBORN",
+    "time": 1.4
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HOLBORN",
+    "destination": "RUSSELL SQUARE",
+    "time": 1.55
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "RUSSELL SQUARE",
+    "destination": "KINGS CROSS",
+    "time": 1.9
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "KINGS CROSS",
+    "destination": "CALEDONIAN ROAD",
+    "time": 2.88
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "CALEDONIAN ROAD",
+    "destination": "HOLLOWAY ROAD",
+    "time": 1.18
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "HOLLOWAY ROAD",
+    "destination": "ARSENAL",
+    "time": 1.28
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "ARSENAL",
+    "destination": "FINSBURY PARK",
+    "time": 1.38
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "FINSBURY PARK",
+    "destination": "MANOR HOUSE",
+    "time": 1.55
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "MANOR HOUSE",
+    "destination": "TURNPIKE LANE",
+    "time": 2.88
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "TURNPIKE LANE",
+    "destination": "WOOD GREEN",
+    "time": 1.57
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "WOOD GREEN",
+    "destination": "BOUNDS GREEN",
+    "time": 2.23
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "BOUNDS GREEN",
+    "destination": "ARNOS GROVE",
+    "time": 2.58
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "ARNOS GROVE",
+    "destination": "SOUTHGATE",
+    "time": 2.8
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "SOUTHGATE",
+    "destination": "OAKWOOD",
+    "time": 2.48
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Eastbound",
+    "departure": "OAKWOOD",
+    "destination": "COCKFOSTERS",
+    "time": 2.83
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "COCKFOSTERS",
+    "destination": "OAKWOOD",
+    "time": 2.27
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "OAKWOOD",
+    "destination": "SOUTHGATE",
+    "time": 2.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SOUTHGATE",
+    "destination": "ARNOS GROVE",
+    "time": 3.28
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ARNOS GROVE",
+    "destination": "BOUNDS GREEN",
+    "time": 2.25
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "BOUNDS GREEN",
+    "destination": "WOOD GREEN",
+    "time": 2.2
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "WOOD GREEN",
+    "destination": "TURNPIKE LANE",
+    "time": 1.52
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "TURNPIKE LANE",
+    "destination": "MANOR HOUSE",
+    "time": 2.87
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "MANOR HOUSE",
+    "destination": "FINSBURY PARK",
+    "time": 1.67
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "FINSBURY PARK",
+    "destination": "ARSENAL",
+    "time": 1.35
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ARSENAL",
+    "destination": "HOLLOWAY ROAD",
+    "time": 1.3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HOLLOWAY ROAD",
+    "destination": "CALEDONIAN ROAD",
+    "time": 1.2
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "CALEDONIAN ROAD",
+    "destination": "KINGS CROSS",
+    "time": 2.78
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "KINGS CROSS",
+    "destination": "RUSSELL SQUARE",
+    "time": 1.67
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "RUSSELL SQUARE",
+    "destination": "HOLBORN",
+    "time": 1.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HOLBORN",
+    "destination": "COVENT GARDEN",
+    "time": 1.53
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "COVENT GARDEN",
+    "destination": "LEICESTER SQUARE",
+    "time": 0.77
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "LEICESTER SQUARE",
+    "destination": "PICCADILLY CIRCUS",
+    "time": 1.07
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "PICCADILLY CIRCUS",
+    "destination": "GREEN PARK",
+    "time": 1.18
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "GREEN PARK",
+    "destination": "HYDE PARK CORNER",
+    "time": 1.73
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HYDE PARK CORNER",
+    "destination": "KNIGHTSBRIDGE",
+    "time": 1.12
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "KNIGHTSBRIDGE",
+    "destination": "SOUTH KENSINGTON",
+    "time": 2.23
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "EARLS COURT",
+    "time": 1.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "EARLS COURT",
+    "destination": "BARONS COURT",
+    "time": 2.68
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "BARONS COURT",
+    "destination": "HAMMERSMITH",
+    "time": 1.32
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HAMMERSMITH",
+    "destination": "ACTON TOWN",
+    "time": 4.7
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ACTON TOWN",
+    "destination": "SOUTH EALING",
+    "time": 2.8
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SOUTH EALING",
+    "destination": "NORTHFIELDS",
+    "time": 0.95
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "NORTHFIELDS",
+    "destination": "BOSTON MANOR",
+    "time": 1.55
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "BOSTON MANOR",
+    "destination": "OSTERLEY",
+    "time": 2.85
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "OSTERLEY",
+    "destination": "HOUNSLOW EAST",
+    "time": 1.52
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HOUNSLOW EAST",
+    "destination": "HOUNSLOW CENTRAL",
+    "time": 1.27
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HOUNSLOW CENTRAL",
+    "destination": "HOUNSLOW WEST",
+    "time": 1.85
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HOUNSLOW WEST",
+    "destination": "HATTON CROSS",
+    "time": 3.3
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HATTON CROSS",
+    "destination": "HEATHROW 123",
+    "time": 1.5
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HEATHROW 123",
+    "destination": "HEATHROW 5",
+    "time": 1.5
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HATTON CROSS",
+    "destination": "HEATHROW TERMINAL FOUR",
+    "time": 2.1
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HEATHROW TERMINAL FOUR",
+    "destination": "HEATHROW 123",
+    "time": 4.63
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ACTON TOWN",
+    "destination": "EALING COMMON",
+    "time": 1.72
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "EALING COMMON",
+    "destination": "NORTH EALING",
+    "time": 1.88
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "NORTH EALING",
+    "destination": "PARK ROYAL",
+    "time": 1.67
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "PARK ROYAL",
+    "destination": "ALPERTON",
+    "time": 2.37
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ALPERTON",
+    "destination": "SUDBURY TOWN",
+    "time": 2.03
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SUDBURY TOWN",
+    "destination": "SUDBURY HILL",
+    "time": 2.25
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SUDBURY HILL",
+    "destination": "SOUTH HARROW",
+    "time": 2.05
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "SOUTH HARROW",
+    "destination": "RAYNERS LANE",
+    "time": 2.4
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "RAYNERS LANE",
+    "destination": "EASTCOTE",
+    "time": 2.2
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "EASTCOTE",
+    "destination": "RUISLIP MANOR",
+    "time": 1.73
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "RUISLIP MANOR",
+    "destination": "RUISLIP",
+    "time": 1.27
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "RUISLIP",
+    "destination": "ICKENHAM",
+    "time": 2.23
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "ICKENHAM",
+    "destination": "HILLINGDON",
+    "time": 1.58
+  },
+  {
+    "line": "Piccadilly ",
+    "direction": "Westbound",
+    "departure": "HILLINGDON",
+    "destination": "UXBRIDGE",
+    "time": 3.7
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "ALDGATE",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.75
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "MOORGATE",
+    "destination": "BARBICAN",
+    "time": 1.38
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "BARBICAN",
+    "destination": "FARRINGDON",
+    "time": 1.2
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "FARRINGDON",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 3.12
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "EUSTON SQUARE",
+    "time": 1.65
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "EUSTON SQUARE",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.3
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "BAKER STREET (MET)",
+    "time": 2.23
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "BAKER STREET (MET)",
+    "destination": "FINCHLEY ROAD",
+    "time": 5.55
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "FINCHLEY ROAD",
+    "destination": "WEMBLEY PARK",
+    "time": 7.05
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "WEMBLEY PARK",
+    "destination": "PRESTON ROAD",
+    "time": 2.12
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "PRESTON ROAD",
+    "destination": "NORTHWICK PARK",
+    "time": 2.3
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "NORTHWICK PARK",
+    "destination": "HARROW-ON-THE-HILL",
+    "time": 2.32
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "FINCHLEY ROAD",
+    "destination": "HARROW-ON-THE-HILL",
+    "time": 11.02
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "HARROW-ON-THE-HILL",
+    "destination": "WEST HARROW",
+    "time": 2.32
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "WEST HARROW",
+    "destination": "RAYNERS LANE",
+    "time": 2.05
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "RAYNERS LANE",
+    "destination": "EASTCOTE",
+    "time": 2.23
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "EASTCOTE",
+    "destination": "RUISLIP MANOR",
+    "time": 1.82
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "RUISLIP MANOR",
+    "destination": "RUISLIP",
+    "time": 1.35
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "RUISLIP",
+    "destination": "ICKENHAM",
+    "time": 2.57
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "ICKENHAM",
+    "destination": "HILLINGDON",
+    "time": 1.75
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "HILLINGDON",
+    "destination": "UXBRIDGE",
+    "time": 4.08
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "HARROW-ON-THE-HILL",
+    "destination": "NORTH HARROW",
+    "time": 3.18
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "NORTH HARROW",
+    "destination": "PINNER",
+    "time": 2
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "PINNER",
+    "destination": "NORTHWOOD HILLS",
+    "time": 2.6
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "NORTHWOOD HILLS",
+    "destination": "NORTHWOOD",
+    "time": 2.23
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "NORTHWOOD",
+    "destination": "MOOR PARK",
+    "time": 2.55
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "HARROW-ON-THE-HILL",
+    "destination": "MOOR PARK",
+    "time": 9.03
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "MOOR PARK",
+    "destination": "CROXLEY",
+    "time": 4.33
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "CROXLEY",
+    "destination": "WATFORD",
+    "time": 3.6
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "MOOR PARK",
+    "destination": "RICKMANSWORTH",
+    "time": 4.13
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "RICKMANSWORTH",
+    "destination": "CHORLEYWOOD",
+    "time": 4.03
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "CHORLEYWOOD",
+    "destination": "CHALFONT & LATIMER",
+    "time": 3.95
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "CHALFONT & LATIMER",
+    "destination": "CHESHAM",
+    "time": 9.48
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Westbound",
+    "departure": "CHALFONT & LATIMER",
+    "destination": "AMERSHAM",
+    "time": 4.07
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "AMERSHAM",
+    "destination": "CHALFONT & LATIMER",
+    "time": 3.65
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "CHESHAM",
+    "destination": "CHALFONT & LATIMER",
+    "time": 9.63
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "CHALFONT & LATIMER",
+    "destination": "CHORLEYWOOD",
+    "time": 3.68
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "CHORLEYWOOD",
+    "destination": "RICKMANSWORTH",
+    "time": 4.07
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "RICKMANSWORTH",
+    "destination": "MOOR PARK",
+    "time": 3.78
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "WATFORD",
+    "destination": "CROXLEY",
+    "time": 3.22
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "CROXLEY",
+    "destination": "MOOR PARK",
+    "time": 4.42
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "MOOR PARK",
+    "destination": "NORTHWOOD",
+    "time": 2.87
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "NORTHWOOD",
+    "destination": "NORTHWOOD HILLS",
+    "time": 2.2
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "NORTHWOOD HILLS",
+    "destination": "PINNER",
+    "time": 2.48
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "PINNER",
+    "destination": "NORTH HARROW",
+    "time": 2.08
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "NORTH HARROW",
+    "destination": "HARROW-ON-THE-HILL",
+    "time": 3.08
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "MOOR PARK",
+    "destination": "HARROW-ON-THE-HILL",
+    "time": 9.62
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "UXBRIDGE",
+    "destination": "HILLINGDON",
+    "time": 3
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "HILLINGDON",
+    "destination": "ICKENHAM",
+    "time": 1.73
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "ICKENHAM",
+    "destination": "RUISLIP",
+    "time": 2.45
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "RUISLIP",
+    "destination": "RUISLIP MANOR",
+    "time": 1.45
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "RUISLIP MANOR",
+    "destination": "EASTCOTE",
+    "time": 1.82
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "EASTCOTE",
+    "destination": "RAYNERS LANE",
+    "time": 2.33
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "RAYNERS LANE",
+    "destination": "WEST HARROW",
+    "time": 2.08
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "WEST HARROW",
+    "destination": "HARROW-ON-THE-HILL",
+    "time": 2.15
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "HARROW-ON-THE-HILL",
+    "destination": "FINCHLEY ROAD",
+    "time": 10.15
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "HARROW-ON-THE-HILL",
+    "destination": "NORTHWICK PARK",
+    "time": 1.9
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "NORTHWICK PARK",
+    "destination": "PRESTON ROAD",
+    "time": 2.05
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "PRESTON ROAD",
+    "destination": "WEMBLEY PARK",
+    "time": 1.98
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "WEMBLEY PARK",
+    "destination": "FINCHLEY ROAD",
+    "time": 7
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "FINCHLEY ROAD",
+    "destination": "BAKER STREET (METROPOLITAN)",
+    "time": 6.13
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "BAKER STREET (METROPOLITAN)",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.98
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "EUSTON SQUARE",
+    "time": 1.25
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "EUSTON SQUARE",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 1.75
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "FARRINGDON",
+    "time": 2.98
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "FARRINGDON",
+    "destination": "BARBICAN",
+    "time": 1.22
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "BARBICAN",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "MOORGATE",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.18
+  },
+  {
+    "line": "Metropolitan",
+    "direction": "Eastbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "ALDGATE",
+    "time": 2.18
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "HAMMERSMITH (H&C)",
+    "destination": "GOLDHAWK ROAD",
+    "time": 2.05
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "GOLDHAWK ROAD",
+    "destination": "SHEPHERDS BUSH MARKET",
+    "time": 1.15
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "SHEPHERDS BUSH MARKET",
+    "destination": "WOOD LANE",
+    "time": 1.5
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "WOOD LANE",
+    "destination": "LATIMER ROAD",
+    "time": 1.5
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "LATIMER ROAD",
+    "destination": "LADBROKE GROVE",
+    "time": 1.37
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "LADBROKE GROVE",
+    "destination": "WESTBOURNE PARK",
+    "time": 1.48
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "WESTBOURNE PARK",
+    "destination": "ROYAL OAK",
+    "time": 1.78
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "ROYAL OAK",
+    "destination": "PADDINGTON (H&C)",
+    "time": 1.52
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "PADDINGTON (H&C)",
+    "destination": "EDGWARE ROAD",
+    "time": 2.33
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "EDGWARE ROAD",
+    "destination": "BAKER STREET ",
+    "time": 1.47
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "BAKER STREET ",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.9
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "EUSTON SQUARE",
+    "time": 1.25
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "EUSTON SQUARE",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 1.75
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "FARRINGDON",
+    "time": 2.98
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "FARRINGDON",
+    "destination": "BARBICAN",
+    "time": 1.22
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "BARBICAN",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "MOORGATE",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.18
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "ALDGATE EAST",
+    "time": 1.93
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "ALDGATE EAST",
+    "destination": "WHITECHAPEL",
+    "time": 2.17
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "WHITECHAPEL",
+    "destination": "STEPNEY GREEN",
+    "time": 2.05
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "STEPNEY GREEN",
+    "destination": "MILE END",
+    "time": 1.73
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "MILE END",
+    "destination": "BOW ROAD",
+    "time": 1.27
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "BOW ROAD",
+    "destination": "BROMLEY BY BOW",
+    "time": 2.12
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "BROMLEY BY BOW",
+    "destination": "WEST HAM",
+    "time": 2
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "WEST HAM",
+    "destination": "PLAISTOW",
+    "time": 1.43
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "PLAISTOW",
+    "destination": "UPTON PARK",
+    "time": 1.97
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "UPTON PARK",
+    "destination": "EAST HAM",
+    "time": 2.02
+  },
+  {
+    "line": "H & C",
+    "direction": "Eastbound",
+    "departure": "EAST HAM",
+    "destination": "BARKING",
+    "time": 3.78
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "BARKING",
+    "destination": "EAST HAM",
+    "time": 2.87
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "EAST HAM",
+    "destination": "UPTON PARK",
+    "time": 2
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "UPTON PARK",
+    "destination": "PLAISTOW",
+    "time": 1.93
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "PLAISTOW",
+    "destination": "WEST HAM",
+    "time": 1.5
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "WEST HAM",
+    "destination": "BROMLEY BY BOW",
+    "time": 2.12
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "BROMLEY BY BOW",
+    "destination": "BOW ROAD",
+    "time": 2.23
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "BOW ROAD",
+    "destination": "MILE END",
+    "time": 1.27
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "MILE END",
+    "destination": "STEPNEY GREEN",
+    "time": 1.72
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "STEPNEY GREEN",
+    "destination": "WHITECHAPEL",
+    "time": 2.63
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "WHITECHAPEL",
+    "destination": "ALDGATE EAST",
+    "time": 2.18
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "ALDGATE EAST",
+    "destination": "LIVERPOOL STREET",
+    "time": 2.12
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "LIVERPOOL STREET",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "MOORGATE",
+    "destination": "BARBICAN",
+    "time": 1.38
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "BARBICAN",
+    "destination": "FARRINGDON",
+    "time": 1.2
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "FARRINGDON",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 3.12
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "EUSTON SQUARE",
+    "time": 1.65
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "EUSTON SQUARE",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.3
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "BAKER STREET ",
+    "time": 1.57
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "BAKER STREET ",
+    "destination": "EDGWARE ROAD",
+    "time": 1.88
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "EDGWARE ROAD",
+    "destination": "PADDINGTON (H&C)",
+    "time": 2.08
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "PADDINGTON (H&C)",
+    "destination": "ROYAL OAK",
+    "time": 1.33
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "ROYAL OAK",
+    "destination": "WESTBOURNE PARK",
+    "time": 1.72
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "WESTBOURNE PARK",
+    "destination": "LADBROKE GROVE",
+    "time": 1.48
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "LADBROKE GROVE",
+    "destination": "LATIMER ROAD",
+    "time": 1.28
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "LATIMER ROAD",
+    "destination": "WOOD LANE",
+    "time": 1.5
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "WOOD LANE",
+    "destination": "SHEPHERDS BUSH MARKET",
+    "time": 1.5
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "SHEPHERDS BUSH MARKET",
+    "destination": "GOLDHAWK ROAD",
+    "time": 1.15
+  },
+  {
+    "line": "H & C",
+    "direction": "Westbound",
+    "departure": "GOLDHAWK ROAD",
+    "destination": "HAMMERSMITH (H&C)",
+    "time": 2.43
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "EDGWARE ROAD",
+    "destination": "PADDINGTON (CIRCLE)",
+    "time": 1.85
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "PADDINGTON (CIRCLE)",
+    "destination": "BAYSWATER",
+    "time": 1.65
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "BAYSWATER",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.47
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "NOTTING HILL GATE",
+    "destination": "HIGH STREET KENSINGTON",
+    "time": 1.58
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "HIGH STREET KENSINGTON",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.8
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "SOUTH KENSINGTON",
+    "time": 1.43
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "SLOANE SQUARE",
+    "time": 1.98
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "SLOANE SQUARE",
+    "destination": "VICTORIA",
+    "time": 1.8
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "VICTORIA",
+    "destination": "ST JAMES PARK",
+    "time": 1.42
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "ST JAMES PARK",
+    "destination": "WESTMINSTER",
+    "time": 1.5
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "WESTMINSTER",
+    "destination": "EMBANKMENT",
+    "time": 1.37
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "EMBANKMENT",
+    "destination": "TEMPLE",
+    "time": 1.37
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "TEMPLE",
+    "destination": "BLACKFRIARS",
+    "time": 1.4
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "BLACKFRIARS",
+    "destination": "MANSION HOUSE",
+    "time": 1.52
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "MANSION HOUSE",
+    "destination": "CANNON STREET",
+    "time": 0.98
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "CANNON STREET",
+    "destination": "MONUMENT",
+    "time": 0.97
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "MONUMENT",
+    "destination": "TOWER HILL",
+    "time": 1.8
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "TOWER HILL",
+    "destination": "ALDGATE",
+    "time": 1.3
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "ALDGATE",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.75
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "LIVERPOOL STREET",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "MOORGATE",
+    "destination": "BARBICAN",
+    "time": 1.38
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "BARBICAN",
+    "destination": "FARRINGDON",
+    "time": 1.2
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "FARRINGDON",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 3.12
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "EUSTON SQUARE",
+    "time": 1.65
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "EUSTON SQUARE",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.3
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "BAKER STREET (CIRCLE)",
+    "time": 1.57
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "BAKER STREET ",
+    "destination": "EDGWARE ROAD",
+    "time": 1.88
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "EDGWARE ROAD",
+    "destination": "PADDINGTON (H&C)",
+    "time": 2.08
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "PADDINGTON (H&C)",
+    "destination": "ROYAL OAK",
+    "time": 1.33
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "ROYAL OAK",
+    "destination": "WESTBOURNE PARK",
+    "time": 1.72
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "WESTBOURNE PARK",
+    "destination": "LADBROKE GROVE",
+    "time": 1.48
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "LADBROKE GROVE",
+    "destination": "LATIMER ROAD",
+    "time": 1.28
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "LATIMER ROAD",
+    "destination": "WOOD LANE",
+    "time": 1.5
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "WOOD LANE",
+    "destination": "SHEPHERDS BUSH MARKET",
+    "time": 1.5
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "SHEPHERDS BUSH MARKET",
+    "destination": "GOLDHAWK ROAD",
+    "time": 1.15
+  },
+  {
+    "line": "Circle ",
+    "direction": "Inner",
+    "departure": "GOLDHAWK ROAD",
+    "destination": "HAMMERSMITH (H&C)",
+    "time": 2.43
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "HAMMERSMITH (H&C)",
+    "destination": "GOLDHAWK ROAD",
+    "time": 2.05
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "GOLDHAWK ROAD",
+    "destination": "SHEPHERDS BUSH MARKET",
+    "time": 1.15
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "SHEPHERDS BUSH MARKET",
+    "destination": "WOOD LANE",
+    "time": 1.5
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "WOOD LANE",
+    "destination": "LATIMER ROAD",
+    "time": 1.5
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "LATIMER ROAD",
+    "destination": "LADBROKE GROVE",
+    "time": 1.37
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "LADBROKE GROVE",
+    "destination": "WESTBOURNE PARK",
+    "time": 1.48
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "WESTBOURNE PARK",
+    "destination": "ROYAL OAK",
+    "time": 1.78
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "ROYAL OAK",
+    "destination": "PADDINGTON (H&C)",
+    "time": 1.52
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "PADDINGTON (H&C)",
+    "destination": "EDGWARE ROAD",
+    "time": 2.33
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "EDGWARE ROAD",
+    "destination": "BAKER STREET ",
+    "time": 1.47
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "BAKER STREET ",
+    "destination": "GREAT PORTLAND STREET",
+    "time": 1.9
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "GREAT PORTLAND STREET",
+    "destination": "EUSTON SQUARE",
+    "time": 1.25
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "EUSTON SQUARE",
+    "destination": "KINGS CROSS ST PANCRAS",
+    "time": 1.75
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "KINGS CROSS ST PANCRAS",
+    "destination": "FARRINGDON",
+    "time": 2.98
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "FARRINGDON",
+    "destination": "BARBICAN",
+    "time": 1.22
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "BARBICAN",
+    "destination": "MOORGATE",
+    "time": 1.32
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "MOORGATE",
+    "destination": "LIVERPOOL STREET",
+    "time": 1.18
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "LIVERPOOL STREET",
+    "destination": "ALDGATE",
+    "time": 2.18
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "ALDGATE",
+    "destination": "TOWER HILL",
+    "time": 1.37
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "TOWER HILL",
+    "destination": "MONUMENT",
+    "time": 1.48
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "MONUMENT",
+    "destination": "CANNON STREET",
+    "time": 0.88
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "CANNON STREET",
+    "destination": "MANSION HOUSE",
+    "time": 0.93
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "MANSION HOUSE",
+    "destination": "BLACKFRIARS",
+    "time": 1.22
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "BLACKFRIARS",
+    "destination": "TEMPLE",
+    "time": 1.37
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "TEMPLE",
+    "destination": "EMBANKMENT",
+    "time": 1.43
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "EMBANKMENT",
+    "destination": "WESTMINSTER",
+    "time": 1.4
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "WESTMINSTER",
+    "destination": "ST JAMES PARK",
+    "time": 1.52
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "ST JAMES PARK",
+    "destination": "VICTORIA",
+    "time": 1.33
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "VICTORIA",
+    "destination": "SLOANE SQUARE",
+    "time": 1.75
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "SLOANE SQUARE",
+    "destination": "SOUTH KENSINGTON",
+    "time": 2
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.48
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "HIGH STREET KENSINGTON",
+    "time": 2.23
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "HIGH STREET KENSINGTON",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.68
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "NOTTING HILL GATE",
+    "destination": "BAYSWATER",
+    "time": 1.77
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "BAYSWATER",
+    "destination": "PADDINGTON (CIRCLE)",
+    "time": 1.63
+  },
+  {
+    "line": "Circle ",
+    "direction": "Outer",
+    "departure": "PADDINGTON (CIRCLE)",
+    "destination": "EDGWARE ROAD",
+    "time": 2.15
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "UPMINSTER",
+    "destination": "UPMINSTER BRIDGE",
+    "time": 2.08
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "UPMINSTER BRIDGE",
+    "destination": "HORNCHURCH",
+    "time": 1.78
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "HORNCHURCH",
+    "destination": "ELM PARK",
+    "time": 1.98
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "ELM PARK",
+    "destination": "DAGENHAM EAST",
+    "time": 2.77
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "DAGENHAM EAST",
+    "destination": "DAGENHAM HEATHWAY",
+    "time": 1.83
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "DAGENHAM HEATHWAY",
+    "destination": "BECONTREE",
+    "time": 1.88
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BECONTREE",
+    "destination": "UPNEY",
+    "time": 2.33
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "UPNEY",
+    "destination": "BARKING",
+    "time": 1.92
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BARKING",
+    "destination": "EAST HAM",
+    "time": 2.87
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EAST HAM",
+    "destination": "UPTON PARK",
+    "time": 2
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "UPTON PARK",
+    "destination": "PLAISTOW",
+    "time": 1.93
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "PLAISTOW",
+    "destination": "WEST HAM",
+    "time": 1.5
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WEST HAM",
+    "destination": "BROMLEY BY BOW",
+    "time": 2.12
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BROMLEY BY BOW",
+    "destination": "BOW ROAD",
+    "time": 2.23
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BOW ROAD",
+    "destination": "MILE END",
+    "time": 1.27
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "MILE END",
+    "destination": "STEPNEY GREEN",
+    "time": 1.72
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "STEPNEY GREEN",
+    "destination": "WHITECHAPEL",
+    "time": 2.63
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WHITECHAPEL",
+    "destination": "ALDGATE EAST",
+    "time": 2.18
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "ALDGATE EAST",
+    "destination": "TOWER HILL",
+    "time": 1.87
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "TOWER HILL",
+    "destination": "MONUMENT",
+    "time": 1.48
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "MONUMENT",
+    "destination": "CANNON STREET",
+    "time": 0.88
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "CANNON STREET",
+    "destination": "MANSION HOUSE",
+    "time": 0.93
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "MANSION HOUSE",
+    "destination": "BLACKFRIARS",
+    "time": 1.22
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BLACKFRIARS",
+    "destination": "TEMPLE",
+    "time": 1.37
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "TEMPLE",
+    "destination": "EMBANKMENT",
+    "time": 1.43
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EMBANKMENT",
+    "destination": "WESTMINSTER",
+    "time": 1.4
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WESTMINSTER",
+    "destination": "ST JAMES PARK",
+    "time": 1.52
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "ST JAMES PARK",
+    "destination": "VICTORIA",
+    "time": 1.33
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "VICTORIA",
+    "destination": "SLOANE SQUARE",
+    "time": 1.75
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "SLOANE SQUARE",
+    "destination": "SOUTH KENSINGTON",
+    "time": 2
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.48
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "EARLS COURT",
+    "time": 1.82
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EDGWARE ROAD",
+    "destination": "PADDINGTON (CIRCLE)",
+    "time": 1.85
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "PADDINGTON (CIRCLE)",
+    "destination": "BAYSWATER",
+    "time": 1.65
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BAYSWATER",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.47
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "NOTTING HILL GATE",
+    "destination": "HIGH STREET KENSINGTON",
+    "time": 1.58
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "HIGH STREET KENSINGTON",
+    "destination": "EARLS COURT",
+    "time": 2.72
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EARLS COURT",
+    "destination": "KENSINGTON (OLYMPIA)",
+    "time": 3.08
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EARLS COURT",
+    "destination": "WEST BROMPTON",
+    "time": 1.42
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WEST BROMPTON",
+    "destination": "FULHAM BROADWAY",
+    "time": 1.55
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "FULHAM BROADWAY",
+    "destination": "PARSONS GREEN",
+    "time": 1.5
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "PARSONS GREEN",
+    "destination": "PUTNEY BRIDGE",
+    "time": 2.32
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "PUTNEY BRIDGE",
+    "destination": "EAST PUTNEY",
+    "time": 2.18
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EAST PUTNEY",
+    "destination": "SOUTHFIELDS",
+    "time": 2.35
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "SOUTHFIELDS",
+    "destination": "WIMBLEDON PARK",
+    "time": 2.05
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WIMBLEDON PARK",
+    "destination": "WIMBLEDON",
+    "time": 3.5
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EARLS COURT",
+    "destination": "WEST KENSINGTON",
+    "time": 1.62
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "WEST KENSINGTON",
+    "destination": "BARONS COURT",
+    "time": 1.32
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "BARONS COURT",
+    "destination": "HAMMERSMITH (DISTRICT)",
+    "time": 1.33
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "HAMMERSMITH (DISTRICT)",
+    "destination": "RAVENSCOURT PARK",
+    "time": 1.63
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "RAVENSCOURT PARK",
+    "destination": "STAMFORD BROOK",
+    "time": 1.37
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "STAMFORD BROOK",
+    "destination": "TURNHAM GREEN",
+    "time": 1.17
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "TURNHAM GREEN",
+    "destination": "CHISWICK PARK",
+    "time": 1.58
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "CHISWICK PARK",
+    "destination": "ACTON TOWN",
+    "time": 1.83
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "ACTON TOWN",
+    "destination": "EALING COMMON",
+    "time": 1.5
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "EALING COMMON",
+    "destination": "EALING BROADWAY",
+    "time": 3.5
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "TURNHAM GREEN",
+    "destination": "GUNNERSBURY",
+    "time": 2.28
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "GUNNERSBURY",
+    "destination": "KEW GARDENS",
+    "time": 2.43
+  },
+  {
+    "line": "District",
+    "direction": "Westbound",
+    "departure": "KEW GARDENS",
+    "destination": "RICHMOND",
+    "time": 4.1
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EALING BROADWAY",
+    "destination": "EALING COMMON",
+    "time": 2.67
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EALING COMMON",
+    "destination": "ACTON TOWN",
+    "time": 1.9
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "ACTON TOWN",
+    "destination": "CHISWICK PARK",
+    "time": 1.8
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "CHISWICK PARK",
+    "destination": "TURNHAM GREEN",
+    "time": 1.48
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "TURNHAM GREEN",
+    "destination": "STAMFORD BROOK",
+    "time": 1.15
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "STAMFORD BROOK",
+    "destination": "RAVENSCOURT PARK",
+    "time": 1.4
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "RAVENSCOURT PARK",
+    "destination": "HAMMERSMITH (DISTRICT)",
+    "time": 1.85
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "HAMMERSMITH (DISTRICT)",
+    "destination": "BARONS COURT",
+    "time": 1.43
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BARONS COURT",
+    "destination": "WEST KENSINGTON",
+    "time": 1.28
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WEST KENSINGTON",
+    "destination": "EARLS COURT",
+    "time": 2.17
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "RICHMOND",
+    "destination": "KEW GARDENS",
+    "time": 3.1
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "KEW GARDENS",
+    "destination": "GUNNERSBURY",
+    "time": 2.42
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "GUNNERSBURY",
+    "destination": "TURNHAM GREEN",
+    "time": 2.6
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WIMBLEDON",
+    "destination": "WIMBLEDON PARK",
+    "time": 2.82
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WIMBLEDON PARK",
+    "destination": "SOUTHFIELDS",
+    "time": 2.18
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "SOUTHFIELDS",
+    "destination": "EAST PUTNEY",
+    "time": 2.37
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EAST PUTNEY",
+    "destination": "PUTNEY BRIDGE",
+    "time": 1.85
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "PUTNEY BRIDGE",
+    "destination": "PARSONS GREEN",
+    "time": 1.92
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "PARSONS GREEN",
+    "destination": "FULHAM BROADWAY",
+    "time": 1.48
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "FULHAM BROADWAY",
+    "destination": "WEST BROMPTON",
+    "time": 1.57
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WEST BROMPTON",
+    "destination": "EARLS COURT",
+    "time": 1.42
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "KENSINGTON (OLYMPIA)",
+    "destination": "EARLS COURT",
+    "time": 2.73
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EARLS COURT",
+    "destination": "HIGH STREET KENSINGTON",
+    "time": 3.05
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "HIGH STREET KENSINGTON",
+    "destination": "NOTTING HILL GATE",
+    "time": 1.68
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "NOTTING HILL GATE",
+    "destination": "BAYSWATER",
+    "time": 1.77
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BAYSWATER",
+    "destination": "PADDINGTON (Dis)",
+    "time": 1.63
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "PADDINGTON (Dis)",
+    "destination": "EDGWARE ROAD",
+    "time": 2.15
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EARLS COURT",
+    "destination": "GLOUCESTER ROAD",
+    "time": 1.92
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "GLOUCESTER ROAD",
+    "destination": "SOUTH KENSINGTON",
+    "time": 1.43
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "SOUTH KENSINGTON",
+    "destination": "SLOANE SQUARE",
+    "time": 1.98
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "SLOANE SQUARE",
+    "destination": "VICTORIA",
+    "time": 1.8
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "VICTORIA",
+    "destination": "ST JAMES PARK",
+    "time": 1.42
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "ST JAMES PARK",
+    "destination": "WESTMINSTER",
+    "time": 1.5
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WESTMINSTER",
+    "destination": "EMBANKMENT",
+    "time": 1.37
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EMBANKMENT",
+    "destination": "TEMPLE",
+    "time": 1.37
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "TEMPLE",
+    "destination": "BLACKFRIARS",
+    "time": 1.4
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BLACKFRIARS",
+    "destination": "MANSION HOUSE",
+    "time": 1.52
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "MANSION HOUSE",
+    "destination": "CANNON STREET",
+    "time": 0.98
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "CANNON STREET",
+    "destination": "MONUMENT",
+    "time": 0.97
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "MONUMENT",
+    "destination": "TOWER HILL",
+    "time": 1.8
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "TOWER HILL",
+    "destination": "ALDGATE EAST",
+    "time": 1.88
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "ALDGATE EAST",
+    "destination": "WHITECHAPEL",
+    "time": 2.17
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WHITECHAPEL",
+    "destination": "STEPNEY GREEN",
+    "time": 2.05
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "STEPNEY GREEN",
+    "destination": "MILE END",
+    "time": 1.73
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "MILE END",
+    "destination": "BOW ROAD",
+    "time": 1.27
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BOW ROAD",
+    "destination": "BROMLEY BY BOW",
+    "time": 2.12
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BROMLEY BY BOW",
+    "destination": "WEST HAM",
+    "time": 2
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "WEST HAM",
+    "destination": "PLAISTOW",
+    "time": 1.43
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "PLAISTOW",
+    "destination": "UPTON PARK",
+    "time": 1.97
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "UPTON PARK",
+    "destination": "EAST HAM",
+    "time": 2.02
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "EAST HAM",
+    "destination": "BARKING",
+    "time": 3.78
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BARKING",
+    "destination": "UPNEY",
+    "time": 1.97
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "UPNEY",
+    "destination": "BECONTREE",
+    "time": 2.33
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "BECONTREE",
+    "destination": "DAGENHAM HEATHWAY",
+    "time": 1.88
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "DAGENHAM HEATHWAY",
+    "destination": "DAGENHAM EAST",
+    "time": 1.85
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "DAGENHAM EAST",
+    "destination": "ELM PARK",
+    "time": 2.85
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "ELM PARK",
+    "destination": "HORNCHURCH",
+    "time": 2.05
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "HORNCHURCH",
+    "destination": "UPMINSTER BRIDGE",
+    "time": 1.77
+  },
+  {
+    "line": "District",
+    "direction": "Eastbound",
+    "departure": "UPMINSTER BRIDGE",
+    "destination": "UPMINSTER",
+    "time": 2.32
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "NEW CROSS",
+    "destination": "SURREY QUAYS",
+    "time": 3.62
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "NEW CROSS GATE",
+    "destination": "SURREY QUAYS",
+    "time": 2.8
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "SURREY QUAYS",
+    "destination": "CANADA WATER",
+    "time": 1.47
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "CANADA WATER",
+    "destination": "ROTHERHITHE",
+    "time": 0.85
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "ROTHERHITHE",
+    "destination": "WAPPING",
+    "time": 1.17
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "WAPPING",
+    "destination": "SHADWELL",
+    "time": 1.43
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "SHADWELL",
+    "destination": "WHITECHAPEL",
+    "time": 1.98
+  },
+  {
+    "line": "East London ",
+    "direction": "Northbound",
+    "departure": "WHITECHAPEL",
+    "destination": "SHOREDITCH",
+    "time": 1.85
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "SHOREDITCH",
+    "destination": "WHITECHAPEL",
+    "time": 1.6
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "WHITECHAPEL",
+    "destination": "SHADWELL",
+    "time": 1.82
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "SHADWELL",
+    "destination": "WAPPING",
+    "time": 1.3
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "WAPPING",
+    "destination": "ROTHERHITHE",
+    "time": 1.17
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "ROTHERHITHE",
+    "destination": "CANADA WATER",
+    "time": 0.93
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "CANADA WATER",
+    "destination": "SURREY QUAYS",
+    "time": 1.7
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "SURREY QUAYS",
+    "destination": "NEW CROSS",
+    "time": 4.27
+  },
+  {
+    "line": "East London ",
+    "direction": "Southbound",
+    "departure": "SURREY QUAYS",
+    "destination": "NEW CROSS GATE",
+    "time": 3.88
+  }
+ ]
+ 
